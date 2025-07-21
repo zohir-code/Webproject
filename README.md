@@ -1,2 +1,2 @@
 # Calculator
-WebProject description
+Smart calculator
